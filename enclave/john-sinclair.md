@@ -56,6 +56,8 @@
 
 - One Elder, well done (Hassad (Reece) , Cond.: Mary May)
 - The battle of the Tower (Olivette (Reece), Rionnal (Jallorn), The Hive (Thomas), Cond.: Robby)
+- TBD ( Iosephus (Tomas), Stronger (Malformist), Cond.: Xela)
+- Buckshot and Poker ride again (Miyukiv (Lethal Butterfly), Rosemary (Moe), Con.: Reece)
   
 ## Appearance
 
