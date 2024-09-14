@@ -51,6 +51,11 @@
 
 - Communicator (Banner)
 - Armored Motorcycle (Barded Warhorse, 'Antique')
+
+## Missions
+
+- One Elder, well done (Hassad (Reece) , Cond.: Mary May)
+- The battle of the Tower (Olivette (Reece), Rionnal (Jallorn), The Hive (Thomas), Cond.: Robby)
   
 ## Appearance
 
