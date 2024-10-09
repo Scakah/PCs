@@ -68,3 +68,15 @@ Tall, of average build. Brown Hair and beard that reach down to his Chest/Back, 
 
 John was the last Gouvernor/Commanding Officer of a Space Station turned Colony in an outer Sector of a large intergalactic Entity. When the war came there, it destroyed the place, leaving only John in its wake. Lacking a Place to belong, he decided to Join the Enclave.
 
+## Full Story
+
+John started his military traiing as a Combat Engineer, serving 3 Years during the Initial War with a group his people called the "Anulans".
+During the war, his mind for organizing and using available (Hunan) Resources had earned him a re-training to become a Specialist, still adjoined to the same squad.
+During an attack on a Space Station, he managed to barely survive with is squad intact, again by using the Local Staff to great effect.
+As "reward" he was promoted to be governour of a small colony that was part of the territory recently ceeded to the enemy during a ciece-fire.
+Afterwards, his superiors decided to "reclaim" said territory, horribly loosing while overextending and incurring a terrible counteratttck, leaving all Colonies destroyed, and 
+the Homeworld "salted", rendering it uninhabitable and it's resource stockpiles slowly dwindling. 
+As response, what remained of the Militrary was split into two groups: Those that would try to evacuate and safeguard what's left, and those that went out in search for solutions of the many problems.
+
+John decided he had enough working with the government, leaving his post for the Enclave, will still on the hunt for solutions to his peoples problems.
+
