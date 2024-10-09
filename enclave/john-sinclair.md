@@ -45,30 +45,58 @@
 
 ## Gear
 
-- Plate Carrier (Heavy Panoply)
+- Plate Carrier (Heavy Panoply):
+  Fabric West containing advanced ceramics (No functional difference, just a skin)
 - Srg's Uniform (Mantle)
 - Fencing Stun Baton (Bastart Sword)
+  One-handed blunt/non-lethal rapier with a electrified tip. Reclaims the energy Spent when Stamina is expended.
 
-- Communicator (Banner)
-- Armored Motorcycle (Barded Warhorse, 'Antique')
+- Rally-Point (Banner)
+  Small holographic projector, needs enough space to project it's 9 feet tall and 6 feet wide banner to summon Johns old Squad
+- Armored Motorcycle (Barded Warhorse)
+  an antique motorcycle john has restored in his freetime. Does no longer run on Gas, but has a Bio-Generator that requires Biomatter
+(Grass and vegetables, like a horse would ;) )
+- Electropike and Riotshield: 
+  Metal staff the length of an arm that may be extended to twice it's length, revealing an electrified tip.
+  Riotshield is made of non-conductive plastics and can store the collapsed pike.
 
 ## Missions
 
+## Level 1 -> Level 2 (2 Missions)
 - One Elder, well done (Hassad (Reece) , Cond.: Mary May)
 - The battle of the Tower (Olivette (Reece), Rionnal (Jallorn), The Hive (Thomas), Cond.: Robby)
+
+## Level 2 -> Level 3 (3 Missions)
 - Demushroomization ( Iosephus (Tomas), Stronger (Malformist), Cond.: Xela)
 - Buckshot and Poker ride again (Miyukiv (Lethal Butterfly), Rosemary (Moe), Con.: Reece)
 - Ice Gold ( The Hive (Tomas), Hassad (Reece), Cond.: Robby )
-  
+
+## Level 3 -> Level 4
+
+## Commissary Rewards
+
+Total: 5
+Spemds:
+
+- 2 on the Banner/Rally Point
+- 2 on Halfpike, Kiteshield/Electropike, Riotshield
+
+Banked: 1
+
 ## Appearance
 
 Tall, of average build. Brown Hair and beard that reach down to his Chest/Back, individually braided. Brown Eyes. Uniform looks impressive, but does not resemble any Uniform seen by any Enclave Agent.
 
 ## Background
 
+
+### Short
 John was the last Gouvernor/Commanding Officer of a Space Station turned Colony in an outer Sector of a large intergalactic Entity. When the war came there, it destroyed the place, leaving only John in its wake. Lacking a Place to belong, he decided to Join the Enclave.
 
-## Full Story
+### Established facts
+- John still knows of/uses money, although he is used to it being fully digitized/abstract
+
+### Full Story
 
 John started his military traiing as a Combat Engineer, serving 3 Years during the Initial War with a group his people called the "Anulans".
 During the war, his mind for organizing and using available (Hunan) Resources had earned him a re-training to become a Specialist, still adjoined to the same squad.
