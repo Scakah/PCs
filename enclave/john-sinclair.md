@@ -40,6 +40,9 @@
  simultaneously making them more cautious/hesitant; allies may
  join in your Paired Action to intensify the Ability’s effects.
 
+-Perk: Worker Rally
+ Non-allies who feel oppressed become willing and able to join the Users side after the Gairethinx
+
 *Make a commotion by clattering weapons and armor, shouting,etc.; sustains until you choose to end*
 
 
