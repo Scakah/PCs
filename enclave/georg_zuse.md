@@ -17,9 +17,9 @@
  
 ## Gear
 
-- _Staff: **S**implistic **t**ransportation **a**long **f**rontier**f**olds_ (Treebranch Staff)
-  Handheld device of appr. 2 meters, can be spun in mid-air to open a gateway into a pocket dimension, customizable to the users replenishment needs.
-  High energy consumptions leads to long recharge times.
+- _Staff: **S**implistic **t**ransportation **a**long **f**rontier **f**olds_ (Treebranch Staff)
+  Handheld device of appr. 2 meters, can be spun in mid-air to open a gateway into a pocket dimension that is customized to the users replenishment needs.
+  High energy consumption leads to long recharge times.
 - _Eyeball Drone_ (Eye in the Sky)
     Small, Eye-ball sized drone that can be worn in the cavity of a lost eye.
     Can be remotely activated to stream visual Data when disconected from it socket for Low Duration and Low cooldown
