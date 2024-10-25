@@ -3,16 +3,16 @@
 ## Personality
 
 - Optimistic (Vitality)
-- Sentimental (Spirit)
+- Scheming (Arcane)
 - Pretentious (Intelligence)
 
 ## Stats
 
 |     Stat      |  Stat   |     Stat          |
 | :-----------: | :-----: | :----------:      |
-|  Vitality +  | Arcane +   |    Vigor          |
+|  Vitality +  | Arcane ++   |    Vigor          |
 |     Might  |  Will    |   Skill +          |
-| Resilience | Sensory  | Intelligence ++    |
+| Resilience | Sensory  | Intelligence +    |
 | Spirit +  | Reflex     |     Luck          |
  
 ## Gear
