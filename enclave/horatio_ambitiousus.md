@@ -37,3 +37,6 @@ He also admires Robur the Conquerer
 ## Missions
 ### Level 1 -> 2 
 - Act of Bog 1 & 2
+
+### Level 2 -> 3
+- Sins of the Murder (Success)
