@@ -13,7 +13,7 @@ Intelligence ++, Skill +++, Will +, Vitality +, Sensory +
 ### Default Gear: 
 - Powersuit: Enhances your natural Strength. Has a visible Weak Spot that causes it to break into pieces. Using it drains Stamina. Needs to be manually deployed. Skinned as 1800-diving suit.
 - Implants: Allow the User to interface with both machines and other beings. May be disorienting for both parties depending on how different the Mindscapes are..
-- Visor: Allows the wearer to perceive mundane unseen things like waves, temperature and material composition. Skinned as Monocle
+- Dissasemblinator: Handheld tool that will disassemble any object into handy Supplies for use in contraptions. Short duration to heat up, Long duration to cool back down. (skinned as a sledgehammer)
 
 ### Elective Gear:
 
