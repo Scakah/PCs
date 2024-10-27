@@ -5,7 +5,7 @@ Intelligence (Pretentious), Skill (Cocky), Will (Thick-Headed)
 
 ## Stats
 
-Intelligence ++, Skill ++, Will +, Vitality + 
+Intelligence ++, Skill +++, Will +, Vitality +, Sensory + 
 
 ## Gear
 
@@ -18,7 +18,11 @@ Intelligence ++, Skill ++, Will +, Vitality +
 ### Elective Gear:
 
 - Thrusters: Set of 5 single-use thrusters. Accelerate to break-neck speeds. Prone to misfire. Skinned as airship models.
-- 
+- Gantry: Pneumatic set of Giant Soldering Aids
+
+## Perks
+
+- Stack the Deck: The contraption may also have been prepared in advance
 
 ## Appearance
 
@@ -29,3 +33,7 @@ Short (5.4), scrawny man. Skin has a slight green-ish hue, as if sick. Hair is o
 Having grown up exposed to the Works of one Jules Verne, Horatio has discovered a faible for Mystical, yet somewhat believable Machines.
 Believing himself to be a veritable Captain Nemo, he has become somewhat of a Frenchposer.
 He also admires Robur the Conquerer
+
+## Missions
+### Level 1 -> 2 
+- Act of Bog 1 & 2
