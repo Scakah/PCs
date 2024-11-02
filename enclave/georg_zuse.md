@@ -49,3 +49,11 @@ who in turn was cast out from the Order.
 On his own, and thusly unable to access his full potential,
 Georg is now Travelling the Manifold, trying to build an Order of his own.
 
+## Ways his names have been mispronounced
+- Tschortsch 
+- Gorg 
+- Geortsch
+- dshorg
+
+## Misssion Log
+- Here comes the Sun 
