@@ -12,8 +12,8 @@
 | :-----------: | :-----: | :----------: |
 |  Vitality ++  | Arcane  |    Vigor     |
 |     Might     |  Will   |   Skill ++   |
-| Resilience ++ | Sensory | Intelligence |
-|    Spirit +    | Reflex +  |     Luck     |
+| Resilience ++ | Sensory | Intelligence + |
+|    Spirit ++    | Reflex +  |     Luck     |
 
 ## Abilities
 
