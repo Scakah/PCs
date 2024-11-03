@@ -76,6 +76,9 @@
 
 ## Level 3 -> Level 4
 
+- The Dim Reaper
+- Cannibals amogus
+
 ## Commissary Rewards
 
 Total: 5
@@ -84,7 +87,7 @@ Spemds:
 - 2 on the Banner/Rally Point
 - 2 on Halfpike, Kiteshield/Electropike, Riotshield
 
-Banked: 1
+Banked: 2
 
 ## Appearance
 
