@@ -56,4 +56,4 @@ Georg is now Travelling the Manifold, trying to build an Order of his own.
 - dshorg
 
 ## Misssion Log
-- Here comes the Sun 
+- Here comes the Sun (2x)
