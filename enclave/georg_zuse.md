@@ -54,6 +54,8 @@ Georg is now Travelling the Manifold, trying to build an Order of his own.
 - Gorg 
 - Geortsch
 - dshorg
+- Gil (Suto)
+- dhschiordsch
 
 ## Misssion Log
 - Here comes the Sun (2x)
