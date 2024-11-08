@@ -22,7 +22,7 @@
  - Morningstar
  - Warchest
  - Overdecorated military uniform that does not fit (slowly becomes more bespoke instead of less shabby)
- - War Wagon (Slow hoverplatform 
+ - Knecht 
 
 ## Appearance
 
