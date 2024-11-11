@@ -11,8 +11,8 @@
 |     Stat      |  Stat   |     Stat          |
 | :-----------: | :-----: | :----------:      |
 |  Vitality +  | Arcane ++   |    Vigor          |
-|     Might  |  Will    |   Skill +          |
-| Resilience | Sensory  | Intelligence +    |
+|     Might  |  Will +   |   Skill +          |
+| Resilience | Sensory +  | Intelligence +    |
 | Spirit +  | Reflex     |     Luck          |
  
 ## Gear
@@ -29,6 +29,12 @@
 - _Hologram Projector_:
     Small Handheld Projector that shows a Possible feauture with such vibrance the User is stunned while observing it.
     As long as he holds the Running Projector, the Excess heat burns his hands as he holds it
+
+- _Headphones_: Pair of headphones that offer mental protection and can enhance sounds prosuced by the user
+
+## Perks
+
+- Quasar: as the user collects mass, beams of plasma may be shot out of his body
 
 ## Appearance
 
