@@ -63,6 +63,8 @@
   Metal staff the length of an arm that may be extended to twice it's length, revealing an electrified tip.
   Riotshield is made of non-conductive plastics and can store the collapsed pike.
 
+- Toolkit: Small lockable box that contains several tools
+
 ## Missions
 
 ## Level 1 -> Level 2 (2 Missions)
@@ -81,13 +83,14 @@
 
 ## Commissary Rewards
 
-Total: 5
-Spemds:
+Total: 7
+Spends: 7
 
 - 2 on the Banner/Rally Point
 - 2 on Halfpike, Kiteshield/Electropike, Riotshield
+- 3 on Toolbox
 
-Banked: 2
+Banked: 0
 
 ## Appearance
 
