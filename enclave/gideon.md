@@ -36,3 +36,14 @@ During the war, his attitude of using whatever means necesary to advance his car
 When he was finally promoted to be governour of a small colony that was part of the territory recently ceeded to the enemy during a cease-fire,
 Gideon decided to strike a Deal with the Orbulus, offering his colony as a beachhead to them and commiting Treason against his own.
 The following years, he lived a live of leasure and Oppulence, joining the Enclave as his small resources were consumed, and the Orbulus replaced him with one of their own.
+
+## Missions
+
+### 1 -> 2
+- Horsing around
+- cheese code violation
+
+## Knechts
+- Sebastian ❓
+- Nathan 💀
+
