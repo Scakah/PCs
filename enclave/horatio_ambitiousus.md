@@ -5,20 +5,21 @@ Intelligence (Pretentious), Skill (Cocky), Will (Thick-Headed)
 
 ## Stats
 
-Intelligence ++, Skill +++, Will +, Vitality +, Sensory + 
+Intelligence ++, Skill +++, Will +, Vitality +, Sensory +, Vigor +, Resilience +
 
 ## Gear
 
 
 ### Default Gear: 
 - Powersuit: Enhances your natural Strength. Has a visible Weak Spot that causes it to break into pieces. Using it drains Stamina. Needs to be manually deployed. Skinned as 1800-diving suit.
-- Implants: Allow the User to interface with both machines and other beings. May be disorienting for both parties depending on how different the Mindscapes are..
+- Implants: Allow the User to interface with both machines and other beings. May be disorienting for both parties depending on how different the Mindscapes are.
 - Dissasemblinator: Handheld tool that will disassemble any object into handy Supplies for use in contraptions. Short duration to heat up, Long duration to cool back down. (skinned as a sledgehammer)
 
 ### Elective Gear:
 
 - Thrusters: Set of 5 single-use thrusters. Accelerate to break-neck speeds. Prone to misfire. Skinned as airship models.
 - Gantry: Pneumatic set of Giant Soldering Aids
+- Replicant
 
 ## Perks
 
@@ -40,3 +41,6 @@ He also admires Robur the Conquerer
 
 ### Level 2 -> 3
 - Sins of the Murder (Success)
+- Free Falling (V1 Fail)
+- Starman (Conduit Credits) :
+Horatio was sent to "clean-up" after a first-contact initiated by the enclave, helping the humans and aliens involved with his implants to develop a common language
