@@ -23,7 +23,7 @@ Intelligence ++, Skill +++, Will +, Vitality +, Sensory +, Vigor +, Resilience +
 
 ## Perks
 
-- Stack the Deck: The contraption may also have been prepared in advance
+- Let the games begin: The contraption may also have been prepared before the mission
 
 ## Appearance
 
