@@ -44,3 +44,6 @@ He also admires Robur the Conquerer
 - Free Falling (V1 Fail)
 - Starman (Conduit Credits) :
 Horatio was sent to "clean-up" after a first-contact initiated by the enclave, helping the humans and aliens involved with his implants to develop a common language
+
+### Level 3 -> 4
+- gobblin soup
