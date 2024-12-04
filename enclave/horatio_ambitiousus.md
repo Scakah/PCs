@@ -1,11 +1,11 @@
-# "Cpt. Nemo"/Horatio Ambitiousus
+# Horatio Ambitiousus
 
 ## Personality
 Intelligence (Pretentious), Skill (Cocky), Will (Thick-Headed)
 
-## Stats
+## Stats (++++++++++++)
 
-Intelligence ++, Skill +++, Will +, Vitality +, Sensory +, Vigor +, Resilience +
+Intelligence +++, Skill ++++, Will +, Vitality +, Sensory +, Vigor +, Resilience +
 
 ## Gear
 
@@ -20,6 +20,7 @@ Intelligence ++, Skill +++, Will +, Vitality +, Sensory +, Vigor +, Resilience +
 - Thrusters: Set of 5 single-use thrusters. Accelerate to break-neck speeds. Prone to misfire. Skinned as airship models.
 - Gantry: Pneumatic set of Giant Soldering Aids
 - Replicant
+- 
 
 ## Perks
 
@@ -31,9 +32,12 @@ Short (5.4), scrawny man. Skin has a slight green-ish hue, as if sick. Hair is o
 
 ##  Background
 
-Having grown up exposed to the Works of one Jules Verne, Horatio has discovered a faible for Mystical, yet somewhat believable Machines.
-Believing himself to be a veritable Captain Nemo, he has become somewhat of a Frenchposer.
-He also admires Robur the Conquerer
+Horatio grew up as the child of a influential FTL engine developer stationed on Phagiea IV.
+Ever the contrarian, he'd rather learn of archaic modes of travel like airships, submarines and personnel-cannons, and he started building steam-engines instead of anti-gravity generators.
+
+When the colony was attacked, he was one of the two people saved by [Georg](./georg_zuse.md) alongside [John](./john-sinclair.md) for a purpose the former has yet to reveal to the two.
+
+Currently, Horatio is working on a way to let his people leave their "dying" homeworld with the resources available, and was invited to zhe enclave by John, both to learn and experience the manifold on-mission, as well as to imrpve his odds with the resources of the enclave.
 
 ## Missions
 ### Level 1 -> 2 
@@ -45,5 +49,7 @@ He also admires Robur the Conquerer
 - Starman (Conduit Credits) :
 Horatio was sent to "clean-up" after a first-contact initiated by the enclave, helping the humans and aliens involved with his implants to develop a common language
 
-### Level 3 -> 4
+### Level 3 -> 4 (v2 Update: only needs 2 more, sonce lv2 requires only 2)
 - gobblin soup
+- Fight at the Museum(CC): Horatio wad invited to validate the artifacts after their return to ensure they weren't replaced with forgeries
+- Curtain of Iron I(CC): Horatio was invited to inspect a stsrdrive of a hidden alien ship
