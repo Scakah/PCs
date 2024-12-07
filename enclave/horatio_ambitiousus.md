@@ -20,7 +20,11 @@ Intelligence +++, Skill ++++, Will +, Vitality +, Sensory +, Vigor +, Resilience
 - Thrusters: Set of 5 single-use thrusters. Accelerate to break-neck speeds. Prone to misfire. Skinned as airship models.
 - Gantry: Pneumatic set of Giant Soldering Aids
 - Replicant
-- 
+### Other Gear
+
+- Toolbox (of Bogatyr): Full of simple tools for manual labor and handicraft (appropriate to the character’s background) accessed via Pitches, all of which the user is guaranteed to be proficient with.
+theuserisguaranteed to beproficientwith.
+- [EWI](https://en.wikipedia.org/wiki/Wind_controller)
 
 ## Perks
 
@@ -52,4 +56,6 @@ Horatio was sent to "clean-up" after a first-contact initiated by the enclave, h
 ### Level 3 -> 4 (v2 Update: only needs 2 more, sonce lv2 requires only 2)
 - gobblin soup
 - Fight at the Museum(CC): Horatio wad invited to validate the artifacts after their return to ensure they weren't replaced with forgeries
-- Curtain of Iron I(CC): Horatio was invited to inspect a stsrdrive of a hidden alien ship
+- Curtain of Iron I(CC): Horatio was invited to inspect a stardrive of a hidden alien ship
+### Level 4 -> 5
+- "Enclave Mission 2024-09-07": Horatio got asked to de-program several victims of a rogue telepath
