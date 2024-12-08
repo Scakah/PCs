@@ -59,3 +59,5 @@ Horatio was sent to "clean-up" after a first-contact initiated by the enclave, h
 - Curtain of Iron I(CC): Horatio was invited to inspect a stardrive of a hidden alien ship
 ### Level 4 -> 5
 - "Enclave Mission 2024-09-07": Horatio got asked to de-program several victims of a rogue telepath
+- "Mach Speed Mountaineering" (Rain, Arik, Tomasz and Reece(Conduit))
+
