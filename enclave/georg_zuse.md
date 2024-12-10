@@ -17,20 +17,20 @@
  
 ## Gear
 
-- _Staff: **S**implistic **t**ransportation **a**long **f**rontier **f**olds_ (Treebranch Staff)
-  Handheld device of appr. 2 meters, can be spun in mid-air to open a gateway into a pocket dimension that is customized to the users replenishment needs.
-  High energy consumption leads to long recharge times.
+- Staff: Technomage staff, made up of different modules with different fuctions.
+  - default: Sound module. can boost the users voice substantially. When wielded correctly, will turn the users voice into a shockwave
 - _Eyeball Drone_ (Eye in the Sky)
     Small, Eye-ball sized drone that can be worn in the cavity of a lost eye.
     Can be remotely activated to stream visual Data when disconected from it socket for Low Duration and Low cooldown
-- _Ventilation Cape_:
-    Cape that produces a tailwind that let's the used move faster as long as he is not observed.
-    Can carry the users whispers by producing currents of air over a low distance
+- _LED Cape_:
+    Cape made up of a gread many small Leds. When georg is deep in thought, displays a cartoonish running animation that actually seems to increase his speed;
+    May also be made to show a doorway that can be walked through into nearby hidden wrecks of shuttlecraft.
+
 - _Hologram Projector_:
     Small Handheld Projector that shows a Possible feauture with such vibrance the User is stunned while observing it.
     As long as he holds the Running Projector, the Excess heat burns his hands as he holds it
 
-- _Headphones_: Pair of headphones that offer mental protection and can enhance sounds prosuced by the user
+- _Headphones_: Pair of headphones that can immitate and project artificial sounds Georg is familiar with up to a low distance.
 
 ## Perks
 
@@ -65,3 +65,5 @@ Georg is now Travelling the Manifold, trying to build an Order of his own.
 
 ## Misssion Log
 - Here comes the Sun (2x)
+- Screech of Ice and Cream
+- No Horror, just birds
