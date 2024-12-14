@@ -24,7 +24,7 @@
 - Tapuanu (Death Mask)  
 ## Appearance
 
-"European-Anerican" with a "Ramen-top" hairdo. Wears glasses, Hawaii-Shirts and kakis.
+"European-American" with a "Ramen-top" hairdo. Wears glasses, Hawaii-Shirts and kakis.
 
 ## Background
 
