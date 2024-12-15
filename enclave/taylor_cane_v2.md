@@ -23,7 +23,9 @@
  - Capotain
  - Dart-launcher bracelet (Ballestrino)
  - Vial of sleeping drug (3x uses) (common)
+   When injected into the bloodstream, causes target to slowly get tired
  - Vial of anger drug (3x uses) (common)
+   When injected into the bloodstream, causes target to slowly get angrier
 
 ## Appearance
 
