@@ -23,7 +23,7 @@
  - Capotain
  - Dart-launcher bracelet (Ballestrino)
  - Vial of sleeping drug (3x uses) (common)
- - Vial of rage drug (3x uses) (common)
+ - Vial of anger drug (3x uses) (common)
 
 ## Appearance
 
