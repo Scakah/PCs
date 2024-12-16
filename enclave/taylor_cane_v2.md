@@ -38,3 +38,5 @@ When orbulus was still inhabitable, Taylor was a the most decorated and respecte
 Now, as his profession has become considered "sidelined", he sells his skills to the other stellar entities, including the Enclave.
 
 ## Missions
+
+- Suto killed the Santasquatch
