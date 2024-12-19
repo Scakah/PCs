@@ -22,7 +22,8 @@
  - Long Whip
  - Fierce Visage
  - Animal Crackers
- - Soaring Eagle 
+ - Soaring Eagle (Kestrel)
+ - Heraldic Lion (Moa) (2ccs)
 
 ## Appearance
 
@@ -39,3 +40,5 @@ hearing he had joined the enclave, she decicded to join as well
 ## Missions
 
 ### 1 -> 2
+
+- 
