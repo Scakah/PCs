@@ -27,8 +27,8 @@
 
 ## Appearance
 
-Tall and Muscular, yet showing signs of recent Oppulence. Effeminate visage Brown long hair, Brown Eyes.
-Uniform was clearly meant for a younger, more in-shape version of them.
+Tall and lean. Effeminate visage covered by Brown long hair, Brown Eyes.
+frilly , long clothing covering most of their body, more in-shape version of them.
 
 ## Backstory
 
