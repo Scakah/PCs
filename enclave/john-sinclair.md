@@ -63,7 +63,7 @@
   Metal staff the length of an arm that may be extended to twice it's length, revealing an electrified tip.
   Riotshield is made of non-conductive plastics and can store the collapsed pike.
 
-- Toolkit: Small lockable box that contains several tools
+- Tool roll: Full of simple tools for manual labor and handicraft (appropriate to the character’s background) accessed via Pitches, all of which the user is guaranteed to be proficient with. Made of purple canvas.
 
 ## Missions
 
