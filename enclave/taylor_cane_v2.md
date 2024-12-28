@@ -24,8 +24,15 @@
  - Dart-launcher bracelet (Ballestrino)
  - Vial of sleeping drug (3x uses) (common)
    When injected into the bloodstream, causes target to slowly get tired
+  - [X]
+  - [ ]
+  - [ ]
  - Vial of anger drug (3x uses) (common)
    When injected into the bloodstream, causes target to slowly get angrier
+  - [X]
+  - [X]
+  - [X]
+ - Firebrand: MK2 Modified Elektropike 
 
 ## Appearance
 
@@ -40,3 +47,4 @@ Now, as his profession has become considered "sidelined", he sells his skills to
 ## Missions
 
 - Suto killed the Santasquatch
+- Tier 3 sub zero
