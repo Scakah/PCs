@@ -22,17 +22,11 @@
  - Ritual cloak of the Corps (Watchcoat)
  - Capotain
  - Dart-launcher bracelet (Ballestrino)
- - Vial of sleeping drug (3x uses) (common)
-   When injected into the bloodstream, causes target to slowly get tired
-  - [X]
-  - [ ]
-  - [ ]
- - Vial of anger drug (3x uses) (common)
-   When injected into the bloodstream, causes target to slowly get angrier
-  - [X]
-  - [X]
-  - [X]
  - Firebrand: MK2 Modified Elektropike 
+ - Vial of sleeping drug (3x uses, 2 remaining) (common)
+   When injected into the bloodstream, causes target to slowly get tired
+ - Vial of anger drug (3x uses, 0 remaining) (common)
+   When injected into the bloodstream, causes target to slowly get angrier
 
 ## Appearance
 
