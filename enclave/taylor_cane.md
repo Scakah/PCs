@@ -11,9 +11,9 @@
 
 |     Stat      |  Stat   |     Stat          |
 | :-----------: | :-----: | :----------:      |
-|  Vitality   | Arcane   |    Vigor         |
+|  Vitality +   | Arcane   |    Vigor         |
 |     Might  |  Will  ++  |   Skill ++         |
-| Resilience   | Sensory + | Intelligence    |
+| Resilience   | Sensory + | Intelligence +   |
 | Spirit +  | Reflex     |     Luck          |
 
 
@@ -23,10 +23,14 @@
  - Capotain
  - Dart-launcher bracelet (Ballestrino)
  - Firebrand: MK2 Modified Elektropike 
- - Vial of sleeping drug (3x uses, 2 remaining) (common)
+ - Vial of sleeping drug (3x uses, 2 remaining) (consumable)
    When injected into the bloodstream, causes target to slowly get tired
- - Vial of anger drug (3x uses, 0 remaining) (common)
+ - Vial of anger drug (3x uses, 0 remaining) (consumable)
    When injected into the bloodstream, causes target to slowly get angrier
+
+## Perks
+
+- When targeting the source, the empowered strike also redirects a portion of the effect to it.
 
 ## Appearance
 
@@ -35,7 +39,7 @@ Lanky build.
 
 ## Backstory
 
-When orbulus was still inhabitable, Taylor was a the most decorated and respected anomaly (read: psion) hunter out there.
+When orbulus was still inhabitable, Taylor was the most decorated and respected anomaly (read: psion) hunter out there.
 Now, as his profession has become considered "sidelined", he sells his skills to the other stellar entities, including the Enclave.
 
 ## Missions
