@@ -1,4 +1,4 @@
-# Taylor Cane (Witchhunter)
+# Taylor Cane (Witchhunter) LV 2
 
 ## Personality
 
@@ -44,5 +44,6 @@ Now, as his profession has become considered "sidelined", he sells his skills to
 
 ## Missions
 
+Lv 1 -> Lv 2 (2)
 - Suto killed the Santasquatch
 - Tier 3 sub zero
