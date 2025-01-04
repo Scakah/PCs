@@ -47,3 +47,6 @@ Now, as his profession has become considered "sidelined", he sells his skills to
 Lv 1 -> Lv 2 (2)
 - Suto killed the Santasquatch
 - Tier 3 sub zero
+
+LV 2 -> 3 (3)
+- A dishonest escape (Tandraine Saga)
