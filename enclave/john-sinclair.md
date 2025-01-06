@@ -80,17 +80,18 @@
 
 - The Dim Reaper
 - Cannibals amogus
+- Jericho's due
 
 ## Commissary Rewards
 
-Total: 7
+Total: 8
 Spends: 7
 
 - 2 on the Banner/Rally Point
 - 2 on Halfpike, Kiteshield/Electropike, Riotshield
 - 3 on Toolbox
 
-Banked: 0
+Banked: 1
 
 ## Appearance
 
