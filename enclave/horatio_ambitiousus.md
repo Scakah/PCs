@@ -5,7 +5,7 @@ Intelligence (Pretentious), Skill (Cocky), Will (Thick-Headed)
 
 ## Stats (++++++++++++)
 
-Intelligence +++, Skill ++++, Will +, Vitality +, Sensory +, Vigor +, Resilience +
+Intelligence ++++, Skill +++++, Will +, Vitality +, Sensory +, Vigor +, Resilience +
 
 ## Gear
 
@@ -30,6 +30,8 @@ theuserisguaranteed to beproficientwith.
 
 - Let the games begin: The contraption may also have been prepared before the mission
 
+- 
+
 ## Appearance
 
 Short (5.4), scrawny man. Skin has a slight green-ish hue, as if sick. Hair is of natural white color, and wildly exploding out of his head. Eyes are a grey-ish blue. Usually wearing a fish-custome-overall.
@@ -49,15 +51,22 @@ Currently, Horatio is working on a way to let his people leave their "dying" hom
 
 ### Level 2 -> 3
 - Sins of the Murder (Success)
+
 - Free Falling (V1 Fail)
+
+### Level 3 -> 4 
 - Starman (Conduit Credits) :
 Horatio was sent to "clean-up" after a first-contact initiated by the enclave, helping the humans and aliens involved with his implants to develop a common language
 
-### Level 3 -> 4 (v2 Update: only needs 2 more, sonce lv2 requires only 2)
 - gobblin soup
+
 - Fight at the Museum(CC): Horatio wad invited to validate the artifacts after their return to ensure they weren't replaced with forgeries
-- Curtain of Iron I(CC): Horatio was invited to inspect a stardrive of a hidden alien ship
+
 ### Level 4 -> 5
+
+- Curtain of Iron I(CC): Horatio was invited to inspect a stardrive of a hidden alien ship
+
 - "Enclave Mission 2024-09-07": Horatio got asked to de-program several victims of a rogue telepath (starman)
+
 - "Mach Speed Mountaineering" (Rain, Arik, Tomasz and Reece(Conduit))
 
