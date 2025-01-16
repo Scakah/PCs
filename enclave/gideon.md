@@ -47,4 +47,5 @@ The following years, he lived a live of leasure and Oppulence, joining the Encla
 ## Knechts
 - Sebastian ❓
 - Nathan 💀
+- Daniel
 
