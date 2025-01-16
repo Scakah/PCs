@@ -22,7 +22,8 @@
  - Morningstar
  - Warchest
  - Overdecorated military uniform that does not fit (slowly becomes more bespoke instead of less shabby)
- - Knecht 
+ - Knecht
+ - Messer
 
 ## Appearance
 
