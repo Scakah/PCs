@@ -54,4 +54,5 @@ The following years, he lived a live of leasure and Oppulence, joining the Encla
 - Sebastian ❓
 - Nathan 💀
 - Daniel (At Conversion Therapy on his own accord)
+- Simon
 
