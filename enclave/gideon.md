@@ -12,18 +12,19 @@
 |     Stat      |  Stat   |     Stat          |
 | :-----------: | :-----: | :----------:      |
 |  Vitality +  | Arcane ++   |    Vigor  +        |
-|     Might ++ |  Will    |   Skill   +        |
-| Resilience + | Sensory  | Intelligence    |
+|     Might ++ |  Will +   |   Skill   +        |
+| Resilience ++ | Sensory  | Intelligence    |
 | Spirit  | Reflex     |     Luck          |
 
 
  ## Gear
 
- - Morningstar
- - Warchest
+ - Morningstar (Heirloom kept from days of old)
+ - Warchest (Futuristic Lock-Box)
  - Overdecorated military uniform that does not fit (slowly becomes more bespoke instead of less shabby)
- - Knecht
- - Messer
+ - Knecht (see below for names)
+ - Messer (Heirloom, kept from days of old)
+ - Hand Cannon (Mk III Portable Artillery Mortar 
 
 ## Appearance
 
@@ -44,8 +45,13 @@ The following years, he lived a live of leasure and Oppulence, joining the Encla
 - Horsing around
 - cheese code violation
 
+### 2 -> 3
+- Bugging Daniel
+- Moles Motorcycles and Military Munchkins (Coduit Credit): Gideon was sent to disperse a Bandit Camp for daring to lay a finger on "the children"
+
+
 ## Knechts
 - Sebastian ❓
 - Nathan 💀
-- Daniel
+- Daniel (At Conversion Therapy on his own accord)
 
