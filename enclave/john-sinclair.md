@@ -11,8 +11,8 @@
 |     Stat      |  Stat   |     Stat     |
 | :-----------: | :-----: | :----------: |
 |  Vitality ++  | Arcane  |    Vigor     |
-|     Might     |  Will   |   Skill ++   |
-| Resilience ++ | Sensory | Intelligence + |
+|     Might     |  Will   |   Skill +++  |
+| Resilience ++ | Sensory + | Intelligence + |
 |    Spirit ++    | Reflex +  |     Luck     |
 
 ## Abilities
@@ -81,6 +81,11 @@
 - The Dim Reaper
 - Cannibals amogus
 - Jericho's due
+- Pebble mission
+
+## Level 4 -> Level 5
+
+
 
 ## Commissary Rewards
 
