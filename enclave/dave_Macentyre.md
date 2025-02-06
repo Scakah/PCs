@@ -1,6 +1,6 @@
 # Dave Macentyre.md (Drachentöter)
 
-## personality
+## Personality
 
 Warm (Spirit)
 Brave (Might)
@@ -12,11 +12,16 @@ Spirit + , Might ++, Resilience +, Skill +, Will +
 
 ## Gear
 
-- Lance
-- Aureole
+- MK V Thruster assisted Lance 
+- Headlamp (Aureole)
 - Dragonscale Armor
 
-- Great Bow
+- MK VII Heavy Bow (Great Bow)
+
+## Appearance
+
+- Braided White Hair and Beard
+- Somewhat old but not diminished by it
 
 ## Backstory
 
