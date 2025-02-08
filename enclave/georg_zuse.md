@@ -32,6 +32,8 @@
 
 - _Headphones_: Pair of headphones that can immitate and project artificial sounds Georg is familiar with up to a low distance.
 
+- 1803 Revival Edition: Futuristic Revolver with many bells amd whistles trimmed of for a "retro" feel
+
 ## Perks
 
 - Quasar: as the user collects mass, beams of plasma may be shot out of his body
@@ -64,6 +66,18 @@ Georg is now Travelling the Manifold, trying to build an Order of his own.
 - dhschiordsch
 
 ## Misssion Log
+
+### 1 -> 2
 - Here comes the Sun (2x)
+## 2->3
 - Screech of Ice and Cream
 - No Horror, just birds
+## 3 -> 4
+- S2 E26: The Alphabet Soup
+- Schooling the grand night
+
+## Merx History
+
+Gained: 6 Spent: 2
+- Headphones (Tyrolean Cap)
+- Revolver 
