@@ -49,6 +49,9 @@ The following years, he lived a live of leasure and Oppulence, joining the Encla
 - Bugging Daniel
 - Moles Motorcycles and Military Munchkins (Coduit Credit): Gideon was sent to disperse a Bandit Camp for daring to lay a finger on "the children"
 
+### 3 -> 4 
+
+- Lit Zepplins: Pirates (Success)
 
 ## Knechts
 - Sebastian ❓
