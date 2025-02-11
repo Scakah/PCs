@@ -1,28 +1,36 @@
-# "Cpt. Nemo"/Horatio Ambitiousus
+# Horatio Ambitiousus
 
 ## Personality
 Intelligence (Pretentious), Skill (Cocky), Will (Thick-Headed)
 
-## Stats
+## Stats (++++++++++++)
 
-Intelligence ++, Skill +++, Will +, Vitality +, Sensory + 
+Intelligence ++++, Skill +++++, Will +, Vitality +, Sensory +, Vigor +, Resilience +
 
 ## Gear
 
 
 ### Default Gear: 
 - Powersuit: Enhances your natural Strength. Has a visible Weak Spot that causes it to break into pieces. Using it drains Stamina. Needs to be manually deployed. Skinned as 1800-diving suit.
-- Implants: Allow the User to interface with both machines and other beings. May be disorienting for both parties depending on how different the Mindscapes are..
-- Dissasemblinator: Handheld tool that will disassemble any object into handy Supplies for use in contraptions. Short duration to heat up, Long duration to cool back down. (skinned as a sledgehammer)
+- Implants: Allow the User to interface with both machines and other beings. May be disorienting for both parties depending on how different the Mindscapes are.
+- Dissasemblinator: Handheld tool that will disassemble any object into handy Supplies for use in contraptions. Short duration to heat up, Long duration to cool back down. (skinned as a oversized engineering wrench)
 
 ### Elective Gear:
 
 - Thrusters: Set of 5 single-use thrusters. Accelerate to break-neck speeds. Prone to misfire. Skinned as airship models.
 - Gantry: Pneumatic set of Giant Soldering Aids
+- Replicant
+### Other Gear
+
+- Toolbox (of Bogatyr): Full of simple tools for manual labor and handicraft (appropriate to the character’s background) accessed via Pitches, all of which the user is guaranteed to be proficient with.
+theuserisguaranteed to beproficientwith.
+- [EWI](https://en.wikipedia.org/wiki/Wind_controller)
 
 ## Perks
 
-- Stack the Deck: The contraption may also have been prepared in advance
+- Let the games begin: The contraption may also have been prepared before the mission
+
+- 
 
 ## Appearance
 
@@ -30,9 +38,12 @@ Short (5.4), scrawny man. Skin has a slight green-ish hue, as if sick. Hair is o
 
 ##  Background
 
-Having grown up exposed to the Works of one Jules Verne, Horatio has discovered a faible for Mystical, yet somewhat believable Machines.
-Believing himself to be a veritable Captain Nemo, he has become somewhat of a Frenchposer.
-He also admires Robur the Conquerer
+Horatio grew up as the child of a influential FTL engine developer stationed on Phagiea IV.
+Ever the contrarian, he'd rather learn of archaic modes of travel like airships, submarines and personnel-cannons, and he started building steam-engines instead of anti-gravity generators.
+
+When the colony was attacked, he was one of the two people saved by [Georg](./georg_zuse.md) alongside [John](./john-sinclair.md) for a purpose the former has yet to reveal to the two.
+
+Currently, Horatio is working on a way to let his people leave their "dying" homeworld with the resources available, and was invited to zhe enclave by John, both to learn and experience the manifold on-mission, as well as to imrpve his odds with the resources of the enclave.
 
 ## Missions
 ### Level 1 -> 2 
@@ -40,3 +51,22 @@ He also admires Robur the Conquerer
 
 ### Level 2 -> 3
 - Sins of the Murder (Success)
+
+- Free Falling (V1 Fail)
+
+### Level 3 -> 4 
+- Starman (Conduit Credits) :
+Horatio was sent to "clean-up" after a first-contact initiated by the enclave, helping the humans and aliens involved with his implants to develop a common language
+
+- gobblin soup
+
+- Fight at the Museum(CC): Horatio wad invited to validate the artifacts after their return to ensure they weren't replaced with forgeries
+
+### Level 4 -> 5
+
+- Curtain of Iron I(CC): Horatio was invited to inspect a stardrive of a hidden alien ship
+
+- "Enclave Mission 2024-09-07": Horatio got asked to de-program several victims of a rogue telepath (starman)
+
+- "Mach Speed Mountaineering" (Rain, Arik, Tomasz and Reece(Conduit))
+
