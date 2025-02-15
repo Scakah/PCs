@@ -53,3 +53,7 @@ Szeth decided to live the remainder of his life constantly mocking the few survi
 Chief among them [John](./john-sinclair.md) and [Georg](./georg_zuse).
 After the two had joined the Enclave on their mission to restore the Orbulan homeworld.
 he decided to join himself in order to foil their plans...
+
+## Mission Log
+
+- I can't believe its not wine
