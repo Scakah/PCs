@@ -4,7 +4,7 @@
 
 - Giving (Spirit)
 - Haughty (Arcane)
-- Might (Retaliatory)
+- Retaliatory (Might)
 
 ## Stats
 
