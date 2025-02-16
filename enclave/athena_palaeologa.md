@@ -40,5 +40,7 @@ Now her left-hand aide, she contrasts with [Leah](/leah.md) as she prefers subte
 
 - After Agents had dispersed a cloud of giant stuffed Rats, the enclave sent her for cleanup (Curtain of Iron II, CC)
 - Having found and dispersed the Drug, Athena was sent to retrieve what is left of it ( Curtain of Iron IV, CC)
+
+### LVL 2 -> 3
 - While the Agents engaged with the Cult, Athena was asked to raid their foodstores ( A deal with the Ulupoke, CC)
 - The Minisitry of Hate asked for Athena to find and secure (if needed, kill) the ominous maker ( Spectral Torch, CC) 
