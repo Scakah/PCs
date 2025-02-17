@@ -8,7 +8,7 @@ Blunt (Resilience)
 
 ## Stats
 
-Spirit + , Might ++, Resilience +, Skill +, Will +
+ Might ++, Resilience ++, Skill ++, Spirit + ,  Reflex + , Vigor +,  Will +
 
 ## Gear
 
@@ -17,6 +17,8 @@ Spirit + , Might ++, Resilience +, Skill +, Will +
 - Dragonscale Armor
 
 - MK VII Heavy Bow (Great Bow)
+- Fencing Cape (Tabard)
+- Flask of Mead
 
 ## Appearance
 
@@ -34,3 +36,12 @@ While that worked seemed menial to him at first, he found working with the Peopl
 When the Anulans finally came to Salt Orbulus, he was on the front lines, prepared for what they (and he) thought was to be an assault.
 After helping Evacuate People, he was met by the enigmatic [Georg](./georg_zuse.md) with both of them arguing the future of their kind - Georg needing Great and Terrible to bring him to heel.
 He did then accompany Georg, mostly on account of the young [Horatio](./horatio_ambitiousus), bringing him a few steps later to enclave HQ.
+
+## Mission Log
+
+### LVL 1 -> 2
+- Have fun with your dragon problem
+- After Characters had angered the Wind Spirits, Dave was sent to resolve their relationship (CC)
+### LVL 2 -> 3
+- After the destruction of a food producing factory, dave helped restore supplies by slaying several big game animals (CC)
+- With wolfgang destroying the village witch, dave is sent to restore grain usage (instead of travellers) (CC)
