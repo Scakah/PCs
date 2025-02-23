@@ -18,9 +18,9 @@
 ## Gear 
 
 - Mischief - Collection of clipped sparrows
-- Beekeper Gloves
+- Vermin Handlers
 - Gas Mask
-- Ratkings cloak: Made of ruffled feathers instead
+- Sewer Hook
 - Pipers flute
 - Skitter
 
