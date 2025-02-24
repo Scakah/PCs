@@ -31,5 +31,14 @@ Ariels right hand, attendant and beast caretaker
 
 ## Mission Log
 
-- insert 4cc blurbs
+### 1 -> 2
 
+- insert 2 blurbs
+
+### 2 -> 3
+- insert 2 blurbs
+
+### 3 -> 4
+
+- Fight fire with Firepower
+- Enclave recruitment drive
