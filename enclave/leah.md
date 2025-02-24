@@ -23,7 +23,7 @@ Intelligence ++ Arcane ++   Spirit ++ Vitality + Vigor + Sensory + Will +
 
 ## Appearance
 
-Maid dress, carryingn all gear in the front apron pocket
+Maid dress, carryingn all gear in a suitcase
 
 ## Backstory
 
