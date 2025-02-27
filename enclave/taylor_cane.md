@@ -50,3 +50,6 @@ Lv 1 -> Lv 2 (2)
 
 LV 2 -> 3 (3)
 - A dishonest escape (Tandraine Saga)
+- Polar Exchange
+- Good night, sweet ~~prince~~ King
+ 
