@@ -45,4 +45,8 @@ Now her left-hand aide, she contrasts with [Leah](/leah.md) as she prefers subte
 - While the Agents engaged with the Cult, Athena was asked to raid their foodstores ( A deal with the Ulupoke, CC)
 - The Minisitry of Hate asked for Athena to find and secure (if needed, kill) the ominous maker ( Spectral Torch, CC)
 
+### LVL 3 -> 4
+
+- A stitch in time
+- Deviled hotdog
   
