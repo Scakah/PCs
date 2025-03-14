@@ -1,4 +1,4 @@
-# Domnius Palamas
+# Domnius Palamas (Catalyst)
 
 ## Personality
 
