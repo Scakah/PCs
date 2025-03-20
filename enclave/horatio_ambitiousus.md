@@ -11,15 +11,15 @@ Intelligence ++++, Skill +++++, Will +, Vitality +, Sensory +, Vigor +, Resilien
 
 
 ### Default Gear: 
-- Powersuit: Enhances your natural Strength. Has a visible Weak Spot that causes it to break into pieces. Using it drains Stamina. Needs to be manually deployed. Skinned as 1800-diving suit.
-- Implants: Allow the User to interface with both machines and other beings. May be disorienting for both parties depending on how different the Mindscapes are.
-- Dissasemblinator: Handheld tool that will disassemble any object into handy Supplies for use in contraptions. Short duration to heat up, Long duration to cool back down. (skinned as a oversized engineering wrench)
+- Powersuit: Very heavy powered suit that comes in a suitcase and unfolds in some seconds. Enhances your natural Strength by draining its internal battery, but Has a visible Weak Spot that causes it to break into pieces. Skinned as 1800-diving suit.
+- Wireless Adapter: 4 discrete implants that can be placed on people or machines. Allows for Remote communication at low range (mid for machines), but breaks after a low duration of use.
+- Thrusters: Set of 5 single-use thrusters. Accelerate to break-neck speeds. Prone to misfire. Skinned as airship models.
+(skinned as a oversized engineering wrench)
 
 ### Elective Gear:
-
-- Thrusters: Set of 5 single-use thrusters. Accelerate to break-neck speeds. Prone to misfire. Skinned as airship models.
+- Disassemblinator: Handheld tool that will disassemble any object with the  time needed to disassemble scales with object size and complexity. Burns out after one use and cannot disassemble anything larger or more complex than a bank vault. 
 - Gantry: Pneumatic set of Giant Soldering Aids
-- Replicant
+- Decoy: 5 convincing but harmless blow-up body-copies of the User that come wallet-sized when collapsed. Can do simple tasks and can use gear given but immediately deflate when taking damage.
 ### Other Gear
 
 - Toolbox (of Bogatyr): Full of simple tools for manual labor and handicraft (appropriate to the character’s background) accessed via Pitches, all of which the user is guaranteed to be proficient with.
