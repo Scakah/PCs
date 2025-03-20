@@ -70,3 +70,6 @@ Horatio was sent to "clean-up" after a first-contact initiated by the enclave, h
 
 - "Mach Speed Mountaineering" (Rain, Arik, Tomasz and Reece(Conduit))
 
+### Level 5 -> 6
+
+- Brick Bertha (No 9 (Tomas), Kadrien (Conduit))
