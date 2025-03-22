@@ -29,7 +29,7 @@ Mid-forties.
  Every Orbulan remembers the day orbulus was salted. 
 
 Marcus had been a youth with way more energy than a young man knew what to do with, and always enjoyed being on his feet, 
-so when he had to pick a job, he wanted to join the Technical Emergency Services. This would lead him to become a sapper in [Johns]](./john-sinclair.md) squad during the war,
+so when he had to pick a job, he wanted to join the Technical Emergency Services. This would lead him to become a sapper in [Johns](./john-sinclair.md) squad during the war,
 and also for him to become the operations head of Johns colony when the time came.
   
  Marcus had just helped a few of Johns Colonists to plow a field when they hurriedly headed to the small screen on the Farmhouse;
