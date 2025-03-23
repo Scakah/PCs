@@ -50,3 +50,8 @@ and also for him to become the operations head of Johns colony when the time cam
 where they got to witness the salting of the colony before speeding of into the vast space.
 
 Sometime later, they landed at Enclave HQ, where Marcus immediately joined up.
+
+## Mission Log
+
+### 1 -> 2
+ - The root of the Problem (Callie (Jennine), Case Huxley (Callie), Conduit Tomas)
