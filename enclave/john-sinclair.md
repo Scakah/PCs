@@ -123,3 +123,7 @@ As response, what remained of the Militrary was split into two groups: Those tha
 
 John decided he had enough working with the government, leaving his post for the Enclave, will still on the hunt for solutions to his peoples problems.
 
+Pending V2 Update:
+
+Mk VIII Electrified Sledgehammer (Thunderhammer)
+Mk II Deployable Banner: 5ft shoulder-slung tube storing a collapsed banner that deploys if opened. 
