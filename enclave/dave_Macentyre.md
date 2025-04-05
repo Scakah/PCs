@@ -42,6 +42,14 @@ He did then accompany Georg, mostly on account of the young [Horatio](./horatio_
 ### LVL 1 -> 2
 - Have fun with your dragon problem
 - After Characters had angered the Wind Spirits, Dave was sent to resolve their relationship (CC)
+
 ### LVL 2 -> 3
 - After the destruction of a food producing factory, dave helped restore supplies by slaying several big game animals (CC)
 - With wolfgang destroying the village witch, dave is sent to restore grain usage (instead of travellers) (CC)
+
+
+### LVL 3 -> 4
+
+- DeLighted to meet you
+
+- No laughing Matter
