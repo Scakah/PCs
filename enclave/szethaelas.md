@@ -34,26 +34,35 @@
 
 ## Level 1 -> Level 2 (2 Missions)
 
+- I can't believe its not wine
+
+
 ## Commissary Rewards
 
-Banked: 0
+Banked: 1
 
 ## Appearance
 
-Anulan (Tall, muscular humanoid alien) (strength reflected in might) built more like a strongman than a body builder.
+Anulan (Tall, muscular humanoid) (strength reflected in might) built more like a strongman than a body builder.
 gray well-groomed beard of medium length thats very wide.
 
 
 ## Background
 
-
 ### Short
-Instrumental during the operation that effectively destroyed the Orbulan homeworld,
-Szeth decided to live the remainder of his life constantly mocking the few survivors,
-Chief among them [John](./john-sinclair.md) and [Georg](./georg_zuse).
-After the two had joined the Enclave on their mission to restore the Orbulan homeworld.
-he decided to join himself in order to foil their plans...
 
-## Mission Log
+A trained soldier and Diplomat, Szeth was one of the Few Anulans both Wealthy and Important enough to see much of the Manifold before his people started a war with the Orbulans. Trying throughout to broker truces and bring peace, his own failures and the hopelesness of the endevour have rendered him a Cynic - enjoying live despite its apparent Meaninglessness.
 
-- I can't believe its not wine
+
+### Long
+
+A well known and lauded officer of the Anulan Diplomatic Course, Szeth had many a contacts on both anulus and orbulus before the latter fell. 
+
+A week before the Fated day, he met with [David](../dave.md) and Abraham, trying to prevent the Final Strike agains orbulus. despite dave misgivings, they hatched a plan, sadly fruitless.
+
+After failing to prevent the Day Anulus was salted, Szeth had still a promise to keep - take care of his good friend Abrahams children [Gideon](../gideon.md) and [Ariel](../ariel.md).
+
+Bringing them to his estate on Anulus and declaring them his spoils of the War, he arranged for his Keepers [Athena](../athena.md) and [Leah](../leah.md). The former had been with him since his old childhood, and the latter was another spoil gained of the estate of a friend that died on the strike.
+
+Following the Disgruntled Gideon after he had Disappeared, Szeth met both [John](./john_sinclair.md) and the Enclave, and was Enranchised by them to help with Johns project.
+
