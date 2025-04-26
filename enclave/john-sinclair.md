@@ -90,7 +90,7 @@
 
 ## Commissary Rewards
 
-Total: 8
+Total: 11
 Spends: 7
 
 - 2 on the Banner/Rally Point
