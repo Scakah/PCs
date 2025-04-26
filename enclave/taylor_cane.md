@@ -1,4 +1,4 @@
-# Taylor Cane (Witchhunter) LV 2
+# Taylor Cane (Witchhunter) LV 3
 
 ## Personality
 
@@ -14,7 +14,7 @@
 |  Vitality +   | Arcane   |    Vigor         |
 |     Might  |  Will  ++  |   Skill ++         |
 | Resilience   | Sensory + | Intelligence +   |
-| Spirit +  | Reflex     |     Luck          |
+| Spirit ++  | Reflex +     |     Luck          |
 
 
  ## Gear
@@ -30,7 +30,7 @@
 
 ## Perks
 
-- When targeting the source, the empowered strike also redirects a portion of the effect to it.
+- When targeting the source, the empowered strike also redirects a portion of the effect to it. (Malleus Maleficarum)
 
 ## Appearance
 
