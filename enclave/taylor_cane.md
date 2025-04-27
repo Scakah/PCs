@@ -23,9 +23,9 @@
  - Capotain
  - Dart-launcher bracelet (Ballestrino)
  - Firebrand: MK2 Modified Elektropike 
- - Vial of sleeping drug (3x uses, 2 remaining) (consumable)
+ - Vial of sleeping drug (3x uses, 3 remaining) (consumable)
    When injected into the bloodstream, causes target to slowly get tired
- - Vial of anger drug (3x uses, 0 remaining) (consumable)
+ - Vial of anger drug (3x uses, 3 remaining) (consumable)
    When injected into the bloodstream, causes target to slowly get angrier
 - Malleus ( Bogatyr -> Bludgeon) 
 
