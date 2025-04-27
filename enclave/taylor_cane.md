@@ -12,9 +12,9 @@
 |     Stat      |  Stat   |     Stat          |
 | :-----------: | :-----: | :----------:      |
 |  Vitality +   | Arcane   |    Vigor         |
-|     Might  |  Will  ++  |   Skill ++         |
+|     Might + |  Will  ++  |   Skill ++         |
 | Resilience   | Sensory + | Intelligence +   |
-| Spirit ++  | Reflex +     |     Luck          |
+| Spirit +  | Reflex +     |     Luck          |
 
 
  ## Gear
