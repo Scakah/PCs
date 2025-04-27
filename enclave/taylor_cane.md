@@ -53,4 +53,8 @@ LV 2 -> 3 (3)
 - A dishonest escape (Tandraine Saga)
 - Polar Exchange
 - Good night, sweet ~~prince~~ King
+
+LV 3 -> 4
+
+- Seekers of the Sun Chapter 1
  
