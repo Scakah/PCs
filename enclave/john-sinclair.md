@@ -31,6 +31,9 @@
  and orientation, which allies and user may pass through as 
  though intangible
 
+- Perk: Coverveyor belt: As long as a character has contact to a summoned shield, their movement speed is increased.
+
+
 *A stomp, shout, or similar, made with a resolute, unyielding attitude*
 
 
@@ -65,6 +68,8 @@
 
 - Tool roll: Full of simple tools for manual labor and handicraft (appropriate to the character’s background) accessed via Pitches, all of which the user is guaranteed to be proficient with. Made of purple canvas.
 
+- Electric assist Sledgehammer (Thunderhammer)
+
 ## Missions
 
 ## Level 1 -> Level 2 (2 Missions)
@@ -96,6 +101,7 @@ Spends: 7
 - 2 on the Banner/Rally Point
 - 2 on Halfpike, Kiteshield/Electropike, Riotshield
 - 3 on Toolbox
+- 3 on Thunderhammer
 
 Banked: 1
 
