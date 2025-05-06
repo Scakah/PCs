@@ -10,9 +10,9 @@
 
 |     Stat      |  Stat   |     Stat          |
 | :-----------: | :-----: | :----------:      |
-|  Vitality +  | Arcane +++   |    Vigor          |
+|  Vitality +  | Arcane ++++   |    Vigor          |
 |     Might  |  Will +   |   Skill ++          |
-| Resilience | Sensory +  | Intelligence +    |
+| Resilience | Sensory +  | Intelligence ++    |
 | Spirit +  | Reflex     |     Luck          |
  
 ## Gear
@@ -75,6 +75,9 @@ Georg is now Travelling the Manifold, trying to build an Order of his own.
 ## 3 -> 4
 - S2 E26: The Alphabet Soup
 - Schooling the grand night
+- Sealed in steel
+
+## 4 -> 5
 
 ## Merx History
 
