@@ -92,6 +92,8 @@
 
 - firehead removal
 - i am nars enyd
+- ???
+- below the event horizon
 
 ## Commissary Rewards
 
