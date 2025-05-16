@@ -8,7 +8,7 @@
 
   ## Stats
 
-  |     Stat      |  Stat   |     Stat     |
+|     Stat      |  Stat   |     Stat     |
 | :-----------: | :-----: | :----------: |
 |  Vitality   | Arcane + |    Vigor     |
 |     Might ++    |  Will +  |   Skill   |
