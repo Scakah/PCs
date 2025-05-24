@@ -8,7 +8,12 @@
 
 ## Stats
 
-Will ++ Spirit + Resilience + Arcane + Might +
+Will ++
+Spirit + 
+Resilience +
+Arcane ++
+Might +
+Vigor +
 
 ## Gear
 
@@ -16,6 +21,7 @@ Will ++ Spirit + Resilience + Arcane + Might +
 - Turqoise Toga (VIP Suit)
 - Sortes (wooden prophecy tablets that pre-ordain the recipient coming to help)
 - Mutagen
+- Drop Shield: Small Stone Cairn
 
 ## Appearance
 
@@ -39,3 +45,4 @@ but also introduced him to a way to bring an actual change about - [John](../joh
 ### Lv 1 -> 2
 
 - heartbroken
+- Boneless Jell-o (CC): Domnius helped a group of Alien lifeforms escape captivity
