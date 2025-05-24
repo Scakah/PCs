@@ -34,6 +34,8 @@
 
 - 1803 Revival Edition: Futuristic Revolver with many bells amd whistles trimmed of for a "retro" feel
 
+- Young Moa: (Saddled Horse) Young flightless bird saddled and packed;
+  -   Mechanical Winged harness that allow it to glide and flap (but not fly) (CI)
 ## Perks
 
 - Quasar: as the user collects mass, beams of plasma may be shot out of his body
@@ -79,8 +81,14 @@ Georg is now Travelling the Manifold, trying to build an Order of his own.
 
 ## 4 -> 5
 
+- Aliens!?
+- Seekers of the sun
+
+ 
 ## Merx History
 
-Gained: 6 Spent: 2
+Gained: 9 Spent: 9
 - Headphones (Tyrolean Cap)
-- Revolver 
+- Revolver
+- Saddled Horse
+- Mechanic Wings 
