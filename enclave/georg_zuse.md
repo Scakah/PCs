@@ -83,6 +83,7 @@ Georg is now Travelling the Manifold, trying to build an Order of his own.
 
 - Aliens!?
 - Seekers of the sun
+- The Royal visit (CH1 of Kingdom on Fire saga)
 
  
 ## Merx History
