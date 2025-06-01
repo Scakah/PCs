@@ -14,7 +14,7 @@ Vigour ++ Luck ++ Vitality + Intelligence + Sensory + Might +
 
 - Hard Hat stack
 - Cement Mixer
-- Handycat
+- Large Parrot (Handycat)
 - Duct Tape
 - Kei van
 
