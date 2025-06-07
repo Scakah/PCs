@@ -25,6 +25,8 @@
 
 ## Level 1 -> Level 2 (2 Missions)
 
+- Cutural Practice (Tomas Detour cond: tim)
+
 ## Commissary Rewards
 
 Total: 0
