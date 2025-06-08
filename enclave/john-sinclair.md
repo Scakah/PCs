@@ -97,8 +97,8 @@
 
 ## Commissary Rewards
 
-Total: 11
-Spends: 7
+Total: 13
+Spends: 10
 
 - 2 on the Banner/Rally Point
 - 2 on Halfpike, Kiteshield/Electropike, Riotshield
