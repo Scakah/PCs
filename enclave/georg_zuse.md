@@ -34,7 +34,7 @@
 
 - 1803 Revival Edition: Futuristic Revolver with many bells amd whistles trimmed of for a "retro" feel
 
-- Young Moa: (Saddled Horse) Young flightless bird saddled and packed;
+- Young Moa: (Saddled Horse) Young flightless bird saddled and packed; Name:Zeins
   -   Mechanical Winged harness that allow it to glide and flap (but not fly) (CI)
 ## Perks
 
