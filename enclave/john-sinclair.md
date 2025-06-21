@@ -10,9 +10,9 @@
 
 |     Stat      |  Stat   |     Stat     |
 | :-----------: | :-----: | :----------: |
-|  Vitality ++  | Arcane  |    Vigor     |
-|     Might +    |  Will   |   Skill +++  |
-| Resilience +++ | Sensory + | Intelligence + |
+|  Vitality + | Arcane  |    Vigor     |
+|     Might   + |  Will ++   |   Skill +++  |
+| Resilience ++ | Sensory + | Intelligence + |
 |    Spirit ++    | Reflex +  |     Luck     |
 
 ## Abilities
@@ -62,9 +62,8 @@
 - Armored Motorcycle (Barded Warhorse)
   an antique motorcycle john has restored in his freetime. Does no longer run on Gas, but has a Bio-Generator that requires Biomatter
 (Grass and vegetables, like a horse would ;) )
-- Electropike and Riotshield: 
-  Metal staff the length of an arm that may be extended to twice it's length, revealing an electrified tip.
-  Riotshield is made of non-conductive plastics and can store the collapsed pike.
+- Riotshield: 
+  Riotshield is made of non-conductive plastics and can store the hammer.
 
 - Tool roll: Full of simple tools for manual labor and handicraft (appropriate to the character’s background) accessed via Pitches, all of which the user is guaranteed to be proficient with. Made of purple canvas.
 
