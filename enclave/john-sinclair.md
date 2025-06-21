@@ -11,8 +11,8 @@
 |     Stat      |  Stat   |     Stat     |
 | :-----------: | :-----: | :----------: |
 |  Vitality ++  | Arcane  |    Vigor     |
-|     Might     |  Will   |   Skill +++  |
-| Resilience ++ | Sensory + | Intelligence + |
+|     Might +    |  Will   |   Skill +++  |
+| Resilience +++ | Sensory + | Intelligence + |
 |    Spirit ++    | Reflex +  |     Luck     |
 
 ## Abilities
@@ -79,21 +79,28 @@
 ## Level 2 -> Level 3 (3 Missions)
 - Demushroomization ( Iosephus (Tomas), Stronger (Malformist), Cond.: Xela)
 - Buckshot and Poker ride again (Miyukiv (Lethal Butterfly), Rosemary (Moe), Con.: Reece)
-- Ice Gold ( The Hive (Tomas), Hassad (Reece), Cond.: Robby )
+
 
 ## Level 3 -> Level 4
-
+- Ice Gold ( The Hive (Tomas), Hassad (Reece), Cond.: Robby )
 - The Dim Reaper
 - Cannibals amogus
-- Jericho's due
-- Pebble mission
 
 ## Level 4 -> Level 5
 
+- Jericho's due
+- Pebble mission
 - firehead removal
+
+## Level 5 -> Level 6
 - i am nars enyd
 - ???
 - below the event horizon
+- Tuna on a stick
+
+## Level 6 -> Level 7
+
+
 
 ## Commissary Rewards
 
