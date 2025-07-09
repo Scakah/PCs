@@ -21,6 +21,7 @@
 - Mk IX Heavy Energy Laser Cutter (Overclocked) (Wheellock Rifle)
 - Mk IXa Reloading Battery (Powderpouch)
 - Technical Emergency Services Baseball cap with spork atop the brim (Börk)
+- Mk XXIV Longaxe (Balta)
 
 ## Appearance
 
