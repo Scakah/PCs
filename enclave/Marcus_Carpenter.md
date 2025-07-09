@@ -12,6 +12,8 @@
 - Skill ++
 - Vitality +
 - Might +
+- Intelligence +
+- Resilience +
 
 ## Gear
 
