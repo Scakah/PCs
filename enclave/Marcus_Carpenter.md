@@ -22,7 +22,7 @@
 - Mk IXa Reloading Battery (Powderpouch)
 - Technical Emergency Services Baseball cap with spork atop the brim (Börk)
 - Mk XXIV Longaxe (Balta)
-- MK () Plate Carrier (Heroic Cure-ass)
+- MK V Plate Carrier (Heroic Cure-ass)
 
 ## Perks
 
