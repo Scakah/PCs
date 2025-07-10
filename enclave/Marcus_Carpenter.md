@@ -8,8 +8,8 @@
 
 ## Stats
 
-- Vigor ++
-- Skill ++
+- Vigor +++
+- Skill +++
 - Vitality +
 - Might +
 - Intelligence +
@@ -22,6 +22,13 @@
 - Mk IXa Reloading Battery (Powderpouch)
 - Technical Emergency Services Baseball cap with spork atop the brim (Börk)
 - Mk XXIV Longaxe (Balta)
+- MK () Plate Carrier (Heroic Cure-ass)
+
+## Perks
+
+- Listen Up!: Initiating Mehter by telling allies of the Plan instead will enhance their effectiveness when playing their part.
+- Airlift: Humbaracı may instead pepper the area with lightweight relief supplies
+
 
 ## Appearance
 
@@ -59,3 +66,11 @@ Sometime later, they landed at Enclave HQ, where Marcus immediately joined up.
 ### 1 -> 2
  - The root of the Problem (Callie (Jennine), Case Huxley (Callie), Conduit Tomas)
  - Visceral action (success)
+
+## 2 -> 3
+- ? (CC)
+- ? (CC)
+
+## 3 -> 4
+
+- ? (CC)
