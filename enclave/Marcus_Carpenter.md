@@ -19,7 +19,7 @@
 
 - Mk VII Cutter (Kılıc)
 - Mk IX Heavy Energy Laser Cutter (Overclocked) (Wheellock Rifle)
-- Mk IXa Reloading Battery (Powderpouch)
+- TES Ruck Mark I (Sapers Kit)
 - Technical Emergency Services Baseball cap with spork atop the brim (Börk)
 - Mk XXIV Longaxe (Balta)
 - MK V Plate Carrier (Heroic Cure-ass)
