@@ -21,6 +21,10 @@
 
 - Saddled horse: Motorized Cargo Bike
 
+## Mission Log
+- ?
+- A nightmare of Brass and Coal
+
 ## Appearance
 
 Tall, Attractive yet lanky man. Blue Windbreaker with NTS (Non technical services) Insignia, Nailgun pistol strapped to the thigh.
