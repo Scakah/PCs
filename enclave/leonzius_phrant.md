@@ -15,10 +15,10 @@ Vigor +
 
 ## Gear:
 
-Jambiya 
-Kaftan
-Hizam Sash
-Steppe Eagle
+- Jambiya 
+- Kaftan
+- Hizam Sash
+- Steppe Eagle
 
 ## Background
 
