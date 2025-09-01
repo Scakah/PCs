@@ -39,3 +39,6 @@ and does Enclave missions on Occasion to help with its projects.
 
 Tall barrel-chested man with white hair, flowy purple toga formed into shape by the sash;
 
+## Mission Log
+
+- War is not a game (Fail)
