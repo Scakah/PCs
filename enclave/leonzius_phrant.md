@@ -1,5 +1,11 @@
 # Leonzius "Leon" Phrant (Mameluk)
 
+## Personality
+
+- Confident (Skill)
+- Aggresive
+- Articulate
+
 ## Stats
 
 Skil ++
