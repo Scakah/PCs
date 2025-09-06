@@ -73,3 +73,5 @@ Horatio was sent to "clean-up" after a first-contact initiated by the enclave, h
 ### Level 5 -> 6
 
 - Brick Bertha (No 9 (Tomas), Kadrien (Conduit))
+
+- A Sticky Situazion (Succes)
