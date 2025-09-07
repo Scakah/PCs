@@ -42,3 +42,4 @@ Tall barrel-chested man with white hair, flowy purple toga formed into shape by 
 ## Mission Log
 
 - War is not a game (Fail)
+- Leons Rampaging Rabbits
