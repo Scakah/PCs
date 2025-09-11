@@ -9,16 +9,32 @@
 ## Stats
 
 Skil ++
-Might +
-Intelligence +
-Vigor +
+Might ++
+Vigor ++
+Intelligence ++
+Spirit ++
+Reflex +
+Resilience +
+Will +
+Luck +
 
 ## Gear:
 
+### Class Signatures
 - Jambiya 
-- Kaftan
+- Kaftan: Simple norse byzantine fusion tunic
 - Hizam Sash
 - Steppe Eagle
+- Kaman Bow
+
+### Other Signatures
+- Hand Cannon
+- Banner
+
+### Common Items
+- Shoulder Armor Rig (Samurai vibes)
+
+## Perks (4 Unused)
 
 ## Background
 
@@ -41,5 +57,20 @@ Tall barrel-chested man with white hair, flowy purple toga formed into shape by 
 
 ## Mission Log
 
+### LV 2
 - War is not a game (Fail)
 - Leons Rampaging Rabbits
+
+## LV 3
+- CC (Gorenado the folly of El Errante)
+- CC (23.04.2025)
+
+## LV 4
+- CC (Boneless Jell-o)
+- CC (Tropical Wasteland)
+- CC (Untitled Ardis Game)
+
+## LV 5
+- CC (25-05-25-2)
+- CC (This was supposed to be a break-in?)
+- CC (Soup Kitchen)
