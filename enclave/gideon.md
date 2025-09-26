@@ -52,6 +52,7 @@ The following years, he lived a live of leasure and Oppulence, joining the Encla
 ### 3 -> 4 
 
 - Lit Zepplins: Pirates (Success)
+- Barbarians at the Gate (Success)
 
 ## Knechts
 - Sebastian ❓
