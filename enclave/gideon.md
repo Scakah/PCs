@@ -16,6 +16,15 @@
 | Resilience ++ | Sensory  | Intelligence    |
 | Spirit  | Reflex     |     Luck          |
 
+## Perks
+
+Locomotive Breath (Unverwüstlich):
+May replace lost limbs with steam-powered mechanical replacements
+
+No Repect for the Natural Order (Aufruhr):
+Manifestations intended to transmute living things are empowered.
+
+
 
  ## Gear
 
