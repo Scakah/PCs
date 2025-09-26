@@ -10,11 +10,21 @@
 
 |     Stat      |  Stat   |     Stat          |
 | :-----------: | :-----: | :----------:      |
-|  Vitality +  | Arcane ++++   |    Vigor          |
+|  Vitality +  | Arcane +++++   |    Vigor          |
 |     Might  |  Will +   |   Skill ++          |
-| Resilience | Sensory +  | Intelligence ++    |
+| Resilience | Sensory +  | Intelligence +++   |
 | Spirit +  | Reflex     |     Luck          |
  
+## Perks:
+
+Genius Loci (Mimisbrunnr): Can access the collective unconcious during the revelation
+
+Quasar (G&T): as the user collects mass, beams of plasma may be shot out of his body
+
+Citymind (WoC): for the duration, may pull all in range into a shared conscience
+
+
+
 ## Gear
 
 - Staff: Technomage staff, made up of different modules with different fuctions.
@@ -36,9 +46,8 @@
 
 - Young Moa: (Saddled Horse) Young flightless bird saddled and packed; Name:Zeins
   -   Mechanical Winged harness that allow it to glide and flap (but not fly) (CI)
-## Perks
 
-- Quasar: as the user collects mass, beams of plasma may be shot out of his body
+
 
 ## Appearance
 
@@ -88,8 +97,8 @@ Georg is now Travelling the Manifold, trying to build an Order of his own.
  
 ## Merx History
 
-Gained: 9 Spent: 9
+Gained: 10 Spent: 9
 - Headphones (Tyrolean Cap)
 - Revolver
 - Saddled Horse
-- Mechanic Wings 
+- Mechanic Wings (Commom Item)
