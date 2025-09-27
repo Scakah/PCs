@@ -11,8 +11,8 @@
 
 |     Stat      |  Stat   |     Stat          |
 | :-----------: | :-----: | :----------:      |
-|  Vitality +  | Arcane ++   |    Vigor  +        |
-|     Might ++ |  Will +   |   Skill   +        |
+|  Vitality +  | Arcane +++   |    Vigor  +        |
+|     Might +++ |  Will +   |   Skill   +       |
 | Resilience ++ | Sensory  | Intelligence    |
 | Spirit  | Reflex     |     Luck          |
 
@@ -62,6 +62,8 @@ The following years, he lived a live of leasure and Oppulence, joining the Encla
 
 - Lit Zepplins: Pirates (Success)
 - Barbarians at the Gate (Success)
+- Murder in the Darkest Wood (Success)
+
 
 ## Knechts
 - Sebastian ❓
