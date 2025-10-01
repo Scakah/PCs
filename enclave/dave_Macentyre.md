@@ -8,7 +8,7 @@ Blunt (Resilience)
 
 ## Stats
 
- Might ++, Resilience ++, Skill ++, Spirit + ,  Reflex + , Vigor +,  Will +
+ Might ++, Resilience ++, Skill ++, Spirit + ,  Reflex + , Vigor ++,  Will +, Sensory +
 
 ## Gear
 
@@ -19,6 +19,9 @@ Blunt (Resilience)
 - MK VII Heavy Bow (Great Bow)
 - Fencing Cape (Tabard)
 - Flask of Mead
+
+
+- Barded Warhorse (Hoverbike)
 
 ## Appearance
 
@@ -53,3 +56,5 @@ He did then accompany Georg, mostly on account of the young [Horatio](./horatio_
 - DeLighted to meet you
 
 - No laughing Matter (Detour)
+
+- Bones of the Earth
