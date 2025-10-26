@@ -34,7 +34,7 @@ Manifestations intended to transmute living things are empowered.
  - Knecht (see below for names)
  - Messer (Heirloom, kept from days of old)
  - Hand Cannon (Mk III Portable Artillery Mortar 
-
+- Billowing Cape: Anulan honorary cape derived from fencing capes
 ## Appearance
 
 Tall and Muscular, yet showing signs of recent Oppulence. Brown Hair Undercut, and Clean-shaven. Brown Eyes.
