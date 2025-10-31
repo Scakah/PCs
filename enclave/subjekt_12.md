@@ -1,12 +1,12 @@
-# Subjekt 12
+# Subjekt 12 (Truant)
 
 ## Stats
 
-Arcane ++ (Scheming)
-Sensory + (Aloof)
-Intelligence + (Analytical)
-Luck +
-Spirit +
+- Arcane ++ (Scheming)
+- Sensory + (Aloof)
+- Intelligence + (Analytical)
+- Luck +
+- Spirit +
 
 ## Gear
 
