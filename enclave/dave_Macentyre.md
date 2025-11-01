@@ -22,7 +22,8 @@ Blunt (Resilience)
 
 
 - MK IIa Shield Projector: Sturdy metal box that can project a directed energy shield scaling in size and strength with how many people need protecting and how vulnerable they are.
-(Orginal: )
+(Orginal: Small, more symbolic than practical. Defending innocents will grant this shield to up to High boosts to protectiveness and size
+without ANY decrease in usability, scaling sharply on the total number and vulnerability of innocents being defended. )
 
 ## Appearance
 
