@@ -21,7 +21,8 @@ Blunt (Resilience)
 - Flask of Mead
 
 
-- Barded Warhorse (Hoverbike)
+- MK IIa Shield Projector: Sturdy metal box that can project a directed energy shield scaling in size and strength with how many people need protecting and how vulnerable they are.
+(Orginal: )
 
 ## Appearance
 
