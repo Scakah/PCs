@@ -16,6 +16,11 @@
 
 - Fairy Dust
 
+## Mission Log
+
+- rage against the obscura
+
+
 ## Appearance
 
 Small human female, hair already graying despite appearing to be no older than 22.
