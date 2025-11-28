@@ -18,6 +18,7 @@
 
 ## Mission Log
 
+- Eclipsing the Pride of Zorn
 
 ## Appearance
 
