@@ -57,4 +57,6 @@ LV 2 -> 3 (3)
 LV 3 -> 4
 
 - Seekers of the Sun Chapter 1
+- Smoking out the sparrows
+- Last train  from Navrul: Fallen Silent
  
