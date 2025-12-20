@@ -8,11 +8,11 @@ Haughty (Arcane)
 
 ## Stats
 
-Sensory +
-Resilience ++
-Reflex +
-Arcane + 
-Skill +
+- Sensory +
+- Resilience ++
+- Reflex +
+- Arcane + 
+- Skill +
 
 ## Gear
 
