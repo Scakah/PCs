@@ -39,3 +39,9 @@ Despite having made it as far as a person of his birth could, he faced to proble
 Wanting more of both the thrill and the spoils.
 
 Thusly, after Leon and Domnius reported to the Gorum that both was to be had with the enclave, he signed up.
+
+## Mission Log
+
+### 1 -> 2
+
+- Carol of the Spiders (Success)
