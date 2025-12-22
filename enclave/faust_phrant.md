@@ -35,3 +35,8 @@ she got assgined to courier duty running missives between the command ships.
 When the war was over, she kept with her duties, but started to be bored by the peace.
 Recently, after her brother was drawn into the enclave, she thought that that seemed fun too.
 
+## Mission Log
+
+### 1 -> 2
+
+- No Swimming
