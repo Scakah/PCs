@@ -75,3 +75,5 @@ Horatio was sent to "clean-up" after a first-contact initiated by the enclave, h
 - Brick Bertha (No 9 (Tomas), Kadrien (Conduit))
 
 - A Sticky Situazion (Succes)
+
+- The space booiis saved the wales!
