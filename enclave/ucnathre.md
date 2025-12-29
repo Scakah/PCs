@@ -1,4 +1,4 @@
-# Ucnadhre (ook - nah- dfre / "Nat")
+# Ucnadhre (ook - nah- dre / "Nat")
 
 ## Personality
 
