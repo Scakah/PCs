@@ -30,9 +30,9 @@
 
 ## Quirk
 Ucnadhre is a sentient octopode (not unlike a large octopus.
-[not able to use most human-designed gear]
-[extra squishy]
-[more limbs that are more "dexterous" but no fingers]
+- [not able to use most human-designed gear]
+- [extra squishy]
+- [more limbs that are more "dexterous" but no fingers]
 
 
 
