@@ -4,7 +4,7 @@
 
 - Pedantic (Int)
 - Needy (Spirit)
-- Reflex (Sly)
+- Sly (Sly)
 
 ## Stats
 
