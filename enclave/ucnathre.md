@@ -22,7 +22,7 @@
 - Speech synthesizer (Common Item)
 - Reacher-Grabber (Common item)
 
-
+"Wishlist"
 - Mark NX-01 scanner [mod idea: link it to vizor by sending data thru] (Scanner)
 - Mark NX-03 Exoskelletton (Full plate)
 - Cassidian Staff Weapon (Sharps rifle)
