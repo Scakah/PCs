@@ -20,13 +20,22 @@
 - Liberate assembly [ Basket holding several tubes with built-in screens] (Bookbag)
 
 - Speech synthesizer (Common Item)
-- 
+- Reacher-Grabber (Common item)
 
 
 - Mark NX-01 scanner [mod idea: link it to vizor by sending data thru] (Scanner)
 - Mark NX-03 Exoskelletton (Full plate)
 - Cassidian Staff Weapon (Sharps rifle)
 - Type 3 Neurographic Imprinter (Memos)
+
+## Quirk
+Ucnadhre is a sentient octopode (not unlike a large octopus.
+[not able to use most human-designed gear]
+[extra squishy]
+[more limbs that are more "dexterous" but no fingers]
+
+
+
 
 ## Appearance
 Tall lanky masked human with an akward gait
