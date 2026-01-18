@@ -19,7 +19,7 @@
 ## Mission Log
 
 - rage against the obscura
-
+- out for a sail
 
 ## Appearance
 
