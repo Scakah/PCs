@@ -8,22 +8,32 @@ Giving (Spirit)
 
 ## Stats
 
-Intelligence ++ Arcane ++   Spirit ++ Vitality + Vigor + Sensory + Will +
+- Intelligence +++
+- Arcane ++   
+- Spirit ++ 
+- Vitality ++ 
+- Vigor + 
+- Sensory + 
+- Will +
+
 ## Gear 
 - Control Pole
-- lav mic
 - pocket critter
-- Penguin Cam
 - Pith Helmet
+- Penguin 
+
+- Animal Cam
 - Dart Gun
+
+- Travellers trunk (Satchel)
 
 ## Perks
 
-- 2 unspent
+- 3 unspent
 
 ## Appearance
 
-Maid dress, carryingn all gear in a suitcase
+Victorian workers dress, carryingn all gear in a suitcase
 
 ## Backstory
 
@@ -42,3 +52,6 @@ Ariels right hand, attendant and beast caretaker
 
 - Fight fire with Firepower
 - Enclave recruitment drive
+- insert one blurb
+
+### 4 -> 5
