@@ -20,7 +20,6 @@ Giving (Spirit)
 - Control Pole
 - pocket critter
 - Pith Helmet
-- Penguin 
 
 - Animal Cam
 - Dart Gun
