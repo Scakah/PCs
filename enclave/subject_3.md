@@ -17,7 +17,7 @@
 - Super Soaker
 
 - Brella
-- Billowing Cloak (lightly singed)
+- Billowing Cloak (lightly singed Anulan honorary cape derived from fencing capes; inherited from gideon)
 
 ## Appearance
 
