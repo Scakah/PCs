@@ -41,4 +41,5 @@ After a brief psychological evaluation by High Shepard Macentyre, i was told to 
 ## Mission Log
 
 - 3 cc Blurbs
+- truthstone trouble
 
