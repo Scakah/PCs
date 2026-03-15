@@ -2,13 +2,13 @@
 
 ## Personality / Stats
 
-- Skill + (Cool)
+- Skill ++ (Cool)
 - Vigor +
-- Intelligence + (Analytical)
+- Intelligence ++ (Analytical)
 
-- Might
-- Reflex
-- Arcane (Scheming)
+- Might +
+- Reflex +
+- Arcane + (Scheming)
 
 ## Gear
 
