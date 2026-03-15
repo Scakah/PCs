@@ -38,3 +38,7 @@ After a brief psychological evaluation by High Shepard Macentyre, i was told to 
 --- Electronical Signature: Cpt. John Sinclair (verified) ---
 
 
+## Mission Log
+
+- 3 cc Blurbs
+
