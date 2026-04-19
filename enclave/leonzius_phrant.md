@@ -74,3 +74,7 @@ Tall barrel-chested man with white hair, flowy purple toga formed into shape by 
 - CC (25-05-25-2)
 - CC (This was supposed to be a break-in?)
 - CC (Soup Kitchen)
+
+## LV 6
+
+- You're not that guy 
