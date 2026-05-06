@@ -8,11 +8,6 @@
 - Arcane +
 - Luck + (Optimistic)
 
-## Background
-
-## Appearance
-
-
 ## Base Gear:
 - Shepherd’s Crook: Staff with a hook which can be wrapped around docile animals. Can be used to reposition captured animals, reducing their weight greatly when movedH and giving them a substantial boost to flexibilityM. 
 
@@ -23,6 +18,31 @@
 Elective:
 
 - Slingshot Gun - Slingshot powered rifle. Loaded with docile animals which get shrunkH and roundedM, up to the size and shape of a small cannonball. Power is set manuallyL-H, putting the gun on a corresponding Cooldown. Animals return to normal after impact or when released.
+
+## Appearance
+
+Small human female, hair already graying despite appearing to be no older than 22.
+
+
+## Background
+
+--- Report --- 
+
+After the death of former corporal Gideon Sulpe (sometimes referred to as Gideon of Sulph) a charge of People was transferred into our custody.
+All of them seemed to be subject to horrible experimentation; However, neither Sulpes documentation nor Specialist Zuse seem willing to answer how, or more pressingly why these were done.
+
+This specific one seems to be entirely human, with the mixin of being able to orchestrate flocks of animals almoust as if telekinetically, and some minor capacity for general psionics.
+
+Both officer kane and specialist zuse assure me that while their modifications are potent, 
+they do not pose any immediate threat to themselves but some to their sorroundings.
+
+From my personal interactions, they seem extremely pleasant and enthusiastic.
+
+After a brief psychological evaluation by High Shepard Macentyre, i was told to set them up with some tasks for now, 
+for which the enclave seems a good place.
+
+--- Electronical Signature: Cpt. John Sinclair (verified) ---
+
 
 ## Abilities
 
