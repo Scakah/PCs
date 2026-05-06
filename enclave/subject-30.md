@@ -22,14 +22,16 @@
 
 Elective:
 
-Slingshot Gun - Slingshot powered rifle. Loaded with docile animals which get shrunkH and roundedM, up to the size and shape of a small cannonball. Power is set manuallyL-H, putting the gun on a corresponding Cooldown. Animals return to normal after impact or when released.
+- Slingshot Gun - Slingshot powered rifle. Loaded with docile animals which get shrunkH and roundedM, up to the size and shape of a small cannonball. Power is set manuallyL-H, putting the gun on a corresponding Cooldown. Animals return to normal after impact or when released.
 
 ## Abilities
 
 ### Building Blocks 
 Cost: Mid, Cooldown: Mid, Duration: Low
 _Guide receptive animals into a masterfully balanced formation._
+
 **Paired action: Call out the name of the formation while guiding the animals in place.**
+
 - The formation can be both horizontal or vertical, and can be increasingly complexL-H with each participating target, far beyond the scope of what would normally be possible.
 - When moved into position, each target gains a much heightenedH sense of balance, and will become locked in place.
 - Targets will be able to bear heavier loads and resist pressure better while in positionL-H, scaling with strength of the foundations they are standing on.
@@ -38,8 +40,11 @@ _Guide receptive animals into a masterfully balanced formation._
 
 ### Puzzle Solving 
 Cost: Mid, Cooldown: Mid, Range: Mid
-_Overcome a roadblock by solving an unconventional puzzle. _
+
+_Overcome a roadblock by solving an unconventional puzzle._
+
 **Paired action: Start organizing bystanders to overcome a puzzle.**
+
 - The puzzle must be solvable with sheer number of participating characters and proper position (holding down pressure plates, continuously pulling a crank, pushing a block into place…)
 - All relevant puzzle pieces will be conjured within Mid Range of the user, and will be treated by others as having been there all along.
 - Puzzle pieces will be conjured in hard to reach locations.
@@ -49,9 +54,11 @@ Scope of the puzzle scales with relevance of the roadblock.
 
 ### Greener Pastures 
 Cost: Mid, Cooldown: High, Range: Mid
+
 _Improve a state of a designated location with each docile animal brought to it._
-+
+
 **Paired action: Designate an area as desired destination in a hopeful speech.**
+
 - The environment improves to better match users' original speech (barren field turns into a blossoming meadow, broken shed turns into a well-furnished barn).
 - Improvement to the area scalesL-H with quantity of newly arrived docile animals brought there.
 - The designated area must be no closer than within High Range of the user on activation.
