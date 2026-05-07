@@ -23,6 +23,10 @@ Elective:
 
 Small human female, hair already graying despite appearing to be no older than 22.
 
+## Mission Log
+
+- TBD (20260407)
+
 
 ## Background
 
