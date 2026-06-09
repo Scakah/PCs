@@ -54,6 +54,7 @@
 | Item | Skin | Mods | Enchantments| Merx Tot.|
  
 | --- | --- | --- | --- | --- | 
+
 | Full Plate | Plate Carrier and protective pads | / | / | 0 |
 
 | Mantle| Military Uniform Jacket | / | / | 0|
