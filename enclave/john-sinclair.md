@@ -51,17 +51,17 @@
 
 ## Gear
 
-| Item | Skin | Mods | Enchantments|
+| Item | Skin | Mods | Enchantments| Merx Tot.| 
 | --- | --- | --- | --- |
-| Full Plate | Plate Carrier and protective pads | / | / |
-| Mantle| Military Uniform Jacket | / | / |
-| Bastard Sword | MK IV Riot Pike | Collapsible | Electrified (Variable |
-| Banner | 4ft shoulder-slung tube storing a collapsed banner that deploys if opened.  | / | / |
-| Barded Destrier | Armored Motorcycle | / | / |
-| Full Plate | Plate Carrier and protective pads | / | / |
-| Kiteshield | Riot Shield | / | / |
-| Toolbox (Bogatyr) | Tool Roll | / | / |
-| Thunderhammer (Thunderbird)  | Sledgehammer | / | / |
+| Full Plate | Plate Carrier and protective pads | / | / | 0 |
+| Mantle| Military Uniform Jacket | / | / | 0|
+| Bastard Sword | MK IV Riot Pike | Collapsible | Electrified (Variable | 4 (from conversion to mod / enchantment but also free for aspirin conv.)|
+| Banner | 4ft shoulder-slung tube storing a collapsed banner that deploys if opened.  | / | / | 0 |
+| Barded Destrier | Armored Motorcycle | / | / | 2 |
+| Full Plate | Plate Carrier and protective pads | / | / | 2 |
+| Kiteshield | Riot Shield | / | / | 2|
+| Toolbox (Bogatyr) | Tool Roll | / | / | 3|
+| Thunderhammer (Thunderbird)  | Sledgehammer | / | / | 3|
 
 ## Missions
 
