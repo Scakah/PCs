@@ -14,8 +14,8 @@
 
 ## Abilities
 
-- [+] Cloud of Suspicion
-- [+] Embrace Darkness
+- [x] Cloud of Suspicion
+- [x] Embrace Darkness
 - [ ] Unleash Hell
 
 ## Appearance
