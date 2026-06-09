@@ -10,9 +10,9 @@
 
 |     Stat      |  Stat   |     Stat     |
 | :-----------: | :-----: | :----------: |
-|  Vitality + | Arcane  |    Vigor     |
+|  Vitality + | Arcane  |    Vigor   +  |
 |     Might   + |  Will ++   |   Skill +++  |
-| Resilience ++ | Sensory + | Intelligence + |
+| Resilience +++ | Sensory + | Intelligence + |
 |    Spirit ++    | Reflex +  |     Luck     |
 
 ## Abilities
@@ -51,23 +51,17 @@
 
 ## Gear
 
-- Plate Carrier (Heavy Panoply):
-  Fabric West containing advanced ceramics (No functional difference, just a skin)
-- Srg's Uniform (Mantle)
-- Fencing Stun Baton (Bastart Sword)
-  One-handed blunt/non-lethal rapier with a electrified tip. Reclaims the energy Spent when Stamina is expended.
-
-- Rally-Point (Banner)
-  Small holographic projector, needs enough space to project it's 9 feet tall and 6 feet wide banner to summon Johns old Squad
-- Armored Motorcycle (Barded Warhorse)
-  an antique motorcycle john has restored in his freetime. Does no longer run on Gas, but has a Bio-Generator that requires Biomatter
-(Grass and vegetables, like a horse would ;) )
-- Riotshield: 
-  Riotshield is made of non-conductive plastics and can store the hammer.
-
-- Tool roll: Full of simple tools for manual labor and handicraft (appropriate to the character’s background) accessed via Pitches, all of which the user is guaranteed to be proficient with. Made of purple canvas.
-
-- Electric assist Sledgehammer (Thunderhammer)
+| Item | Skin | Mods | Enchantments|
+| --- | --- | --- | --- |
+| Full Plate | Plate Carrier and protective pads | / | / |
+| Mantle| Military Uniform Jacket | / | / |
+| Bastard Sword | MK IV Riot Pike | Collapsible | Electrified (Variable |
+| Banner | 4ft shoulder-slung tube storing a collapsed banner that deploys if opened.  | / | / |
+| Barded Destrier | Armored Motorcycle | / | / |
+| Full Plate | Plate Carrier and protective pads | / | / |
+| Kiteshield | Riot Shield | / | / |
+| Toolbox (Bogatyr) | Tool Roll | / | / |
+| Thunderhammer (Thunderbird)  | Sledgehammer | / | / |
 
 ## Missions
 
