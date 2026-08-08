@@ -10,6 +10,7 @@
 ## Gear 
 - [x] Deathmask
 - [x] Silver Edge
+- [x] Hooded Cloak
 - [x] Shadow Blade
 
 ## Abilities
