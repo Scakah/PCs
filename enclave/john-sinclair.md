@@ -62,7 +62,7 @@
 | Barded Destrier | Armored Motorcycle | / | / | 2 |
 | Full Plate | Plate Carrier and protective pads | / | / | 2 |
 | Kiteshield | Riot Shield | / | / | 2|
-| Toolbox (Bogatyr) | Tool Roll | / | / | 3|
+| Bindle (Bogatyr) | Tool Roll | / | / | 3|
 | Thunderhammer (Thunderbird)  | Sledgehammer | / | / | 3|
 | Pike extension ? | Extends a weapon to polearm lengt (common item) | | | 1 |
 ## Missions
